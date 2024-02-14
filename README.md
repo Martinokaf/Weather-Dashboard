@@ -8,7 +8,7 @@ API used: [Weather Forecast](https://openweathermap.org/forecast5)
 
 ## Installation
 
-Simply click on the URL and you will be navigated to the web application on your default browser.[follow the link](https://martinokaf.github.io/Javascript-Password-Generator/).
+Simply click on the URL and you will be navigated to the web application on your default browser.[follow the link](https://martinokaf.github.io/Weather-Dashboard/).
 
 - Visit the project repository or navigate to the website by clicking the link above 
 - Explore the website by typing the city of your choice into the search bar and click the 'search' button.
@@ -25,7 +25,8 @@ The data that is shown consists of:
 - Wind Speed in KPH
 - Humidity in %
 
-![overwiew](assets/images/screenshot.png)
+![overview](assets/images/Screenshot1.png)
+![overview](assets/images/Screenshot.png)
 
 ## Credits
 
