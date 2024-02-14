@@ -65,6 +65,7 @@ $("#clear").on("click", function () {
     $("#today").text("");
     $("#forecast-header").text("");
     $("#history").text("");
+    $("#search-input").val("")
 });
 
 // This function is getting data from the local storage and printing it to the screen, using the functions created below it
